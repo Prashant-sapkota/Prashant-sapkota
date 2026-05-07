@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Prashant
 
-<!--
-**Prashant-sapkota/Prashant-sapkota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer from Nepal  
+🚀 React | Tailwind | Python | PHP  
+📍 Lalitpur, Nepal
 
-Here are some ideas to get you started:
+## 🌐 Socials
+- Facebook
+- LinkedIn
+- Instagram
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 🚀 Projects
+- Kalika Website
+- Jobmania
+- Portfolio
